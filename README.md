@@ -16,11 +16,11 @@ Live Netlify Link of the assignment: https://firstbench-assignment.netlify.app/
 
 <!-- Install required dependencies -->
 
-3.  npm install react-router-dom 
-    npm install -D tailwindcss postcss autoprefixer
-    npx tailwindcss init -p
-    npm i bootstrap-icons
-    npm install react-chartjs-2
+3.  npm install react-router-dom  <br>
+    npm install -D tailwindcss postcss autoprefixer <br>
+    npx tailwindcss init -p <br>
+    npm i bootstrap-icons <br>
+    npm install react-chartjs-2 <br>
 
 <!-- Run the application -->
 
